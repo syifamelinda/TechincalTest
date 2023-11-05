@@ -1,0 +1,21 @@
+[KETENTUAN]
+
+- Robot mengakses data excel "sumber data.xlsx" untuk proses
+- Robot filter first name dan last name
+- menggunakan last name untuk menggabungkan kedua data di sheet Data Karyawan dan Data Karyawan Kerja
+- Data di sorting berdasarkan Nama (A-Z)
+- Tambah column "Status" di paling akhir column untuk mencatat status upload (Berhasil/Gagal)
+- Upload data tersebut ke Link : https://www.theautomationchallenge.com/crm  (buatlah acc terlebih dahulu)
+- Jika state = "New York" maka robot akan skip datanya dan Status menjadi "State - Newyork Skipped"
+- Simpan hasil di file excel dengan nama Result.xlsx dan di folder dengan ambil tanggal hari ini dengan format dd MMM yyyy cnth : 1 Jan 2023. (Apabila folder tidak tersedia maka robot akan membuatnya)
+- Contoh file dapat dilihat pada folder 1 Jan 2023 yang disertakan pada file ini.
+- terakhir buatlah sebuah summary dengan menggunakan template "Laporan.txt", Hitung jumlah data total, data yang gagal dan berhasil serta jumlah data tiap state.
+ (HINT : filter data table menggunakan masing-masing state dan hitung Jumlah rownya)
+
+[Nilai Plus]
+- menggunakan File config excel dan simpan dalam Dictionary
+- Menggunakan REFramework
+- dapat Login otomatis jika ketika jalanin robot dan ternyata WEB belum Login
+- Error Handling (Jika terdapat data Gagal upload robot tidak langsung berhenti melainkan skip data dan melanjutkan ke data seanjutnya)
+
+ 

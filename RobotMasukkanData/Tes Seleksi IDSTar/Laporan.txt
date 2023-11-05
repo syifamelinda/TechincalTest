@@ -1,0 +1,77 @@
+Jumlah Data Total: 
+Jumlah data Berhasil:
+Jumlah data Gagal:
+
+JUMLAH DATA Masing-masing State di Bawah ini
+
+Alabama:
+Arizona:
+California:
+Colorado:
+Connecticut:
+District of Columbia:
+Florida:
+Georgia:
+Idaho:
+Illinois:
+Indiana:
+Iowa:
+Kansas:
+Kentucky:
+Louisiana:
+Maryland:
+Massachusetts:
+Michigan:
+Minnesota:
+Missouri:
+Nebraska:
+Nevada:
+New Jersey:
+New Mexico:
+New York:
+North Carolina:
+Ohio:
+Pennsylvania:
+South Dakota:
+Tennessee:
+Texas:
+Utah:
+Virginia:
+Washington:
+West Virginia:
+Wisconsin:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
